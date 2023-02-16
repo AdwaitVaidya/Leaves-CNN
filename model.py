@@ -1,8 +1,4 @@
-#!/N/u/
-'''
-Our own model developped from scratch the do leaf classification
-using batch Normalization as regularization method and relu as Activation function
-'''
+
 
 from keras.preprocessing.image import ImageDataGenerator, array_to_img
 from keras.models import Sequential
